@@ -251,16 +251,6 @@ System calls provide an interface between user programs and the operating system
 
 ---
 
-# Important Exam Points
-
-- OS acts as resource allocator and control program.
-- Kernel is always resident in memory.
-- Multiprogramming improves CPU utilization.
-- Time-sharing systems support interactive computing.
-- System calls act as interface to OS services.
-
----
-
 # Summary
 
 An Operating System is an essential system software that manages hardware resources, provides services to application programs, and acts as an interface between the user and computer hardware.
